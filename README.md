@@ -10,5 +10,5 @@ $ < hello > world
 #Version 2
 Supports a pipe (only one)
 ```
-$ cat file ! tr a A
+$ cat file | tr a A
 ```
